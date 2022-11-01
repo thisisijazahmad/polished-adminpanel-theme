@@ -1,0 +1,1 @@
+# polished-adminpanel-theme
